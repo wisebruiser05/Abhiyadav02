@@ -148,11 +148,11 @@ A sample of my recent articles:
 </details>
 
 
-<!--
+
 ## ✡️ Stargazers 👇
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
--->
+
 ## 🙋‍♂️ Let's Connect
 <div align="center">
 	<!--
@@ -170,17 +170,21 @@ A sample of my recent articles:
 <!--
 ## :book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/thenomaniqbal/thenomaniqbal/issues/new?template=guestbook-entry.md">here</a>!</p>
--->
+
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
 </div>
+-->
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/footer.png"></div>
 	
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Abhiyadav02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+-->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
