@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Flutter;I+am++into++Data+Science;I+am++into++Machine+Learning;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Flutter+Development;I+am++into++Data+Science;I+am++into++Machine+Learning;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Social badges section -->
@@ -27,17 +27,17 @@
 <!-- Introduction -->
 My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter and Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply in love with Data Science and Flutter.
 
-<!--
+
 ## 🔥 Streak Stats
--->
+
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!--
+
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Yadav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Yadav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiyadav02&theme=monokai-metallian&hide_border=true"/></a>
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
--->
+
 
 ## 🛠️ My Favorite Tools
 
@@ -84,7 +84,7 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
 ### 🔧 Software, Technologies and tools
 
 <p>
-	<a href="#"><img alt="OS-Windows" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
+	<a href="#"><img alt="OS-Windows" src="https://img.shields.io/badge/Windows-1793D1.svg?logo=windows&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
@@ -105,10 +105,10 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
 ---
  
  <p>
-  <img align="left" alt="GIF" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/code.gif?raw=true" width="200" />
+  <img align="left" alt="GIF" src="https://github.com/Abhiyadav02/Abhiyadav02/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Abhiyadav02/aboutme/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
+## <img src="https://raw.githubusercontent.com/Abhiyadav02/Abhiyadav02/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 <!--
@@ -131,7 +131,7 @@ A sample of my recent articles:
 <details>
 	<summary>💻 GitHub Profile Stats</summary>
 	<br/>
-	<a href="https://github.com/Abhiyadav02/aboutme"><img alt="Abhishek Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhiyadav02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
+	<a href="https://github.com/Abhiyadav02/Abhiyadav02"><img alt="Abhishek Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhiyadav02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abhishek Yadav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiyadav02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -140,7 +140,7 @@ A sample of my recent articles:
 <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
-	<a href="https://github.com/Abhiyadav02/aboutme"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=aboutme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/Abhiyadav02/Abhiyadav02"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=aboutme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/Abhiyadav02/NITTTR_DATA_SCIENCE_2022"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=NITTTR_DATA_SCIENCE_2022&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/Abhiyadav02/Resturant-Review-analysis-using-NLP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Resturant-Review-analysis-using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/Abhiyadav02/Basic-Banking-Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Basic-Banking-Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
