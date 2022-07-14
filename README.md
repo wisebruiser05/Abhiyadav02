@@ -45,14 +45,15 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
 ### 💻 Programming Languages
 
 <p>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Apython"><img alt="Python" src="#"></a>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Acpp"><img alt="C++" src="#"></a>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Ahtml"><img alt="HTML" src="#"></a>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Acss"><img alt="CSS" src="#"></a>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Amarkdown"><img alt="Java" src="#"></a>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="SQL" src="#"></a>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="Dart" src="#"></a>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="Flutter" src="#"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Amarkdown"><img alt="Java" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/java-coffee-cup-logo.png"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="Dart" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/dart.svg"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="Flutter" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/flutter.svg"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
