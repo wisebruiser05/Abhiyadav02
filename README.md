@@ -151,7 +151,7 @@ A sample of my recent articles:
 
 ## ✡️ Stargazers 👇
 
-[![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
+[![Stargazers repo roster for @Abhiyadav02/Abhiyadav02](https://reporoster.com/stars/Abhiyadav02/Abhiyadav02)](https://github.com/Abhiyadav02/Abhiyadav02/stargazers)
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
