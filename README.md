@@ -49,7 +49,7 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
 	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Ajava"><img alt="Java" src="#"></a>
 	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Aflutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -108,7 +108,7 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
   <img align="left" alt="GIF" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
+## <img src="https://raw.githubusercontent.com/Abhiyadav02/aboutme/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 <!--
