@@ -8,31 +8,36 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning+;I+am++into+Deep+Learning+;I+am++into++Big+Data;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Flutter;I+am++into++Data+Science;I+am++into++Machine+Learning;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Social badges section -->
+<!--
 <p align="center">
 	<a href="https://github.com/thenomaniqbal/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=red&style=for-the-badge"/></a>
 	<a href="https://github.com/thenomaniqbal?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/thenomaniqbal"/></a>
   	<a href="https://github.com/thenomaniqbal?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 	
 </p>
+-->
 <!--<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
 <!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal"> </a>-->
 <hr/>
 
 <!-- Introduction -->
-My name is [Abhishek Yadav!](http://nomaniqbal.epizy.com/)! and I'm a Flutter and Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply in love with Data Science and Flutter.
+My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter and Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply in love with Data Science and Flutter.
 
+<!--
 ## 🔥 Streak Stats
-
+-->
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!--
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Yadav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
+-->
 
 ## 🛠️ My Favorite Tools
 
@@ -44,10 +49,10 @@ My name is [Abhishek Yadav!](http://nomaniqbal.epizy.com/)! and I'm a Flutter an
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Amarkdown"><img alt="Java" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Amarkdown"><img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?logo=markdown&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="Dart" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="Flutter" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -125,8 +130,8 @@ A sample of my recent articles:
 <details>
 	<summary>💻 GitHub Profile Stats</summary>
 	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img alt="Abhishek Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenomaniqbal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NomanIqbal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenomaniqbal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
+	<a href="https://github.com/Abhiyadav02/aboutme"><img alt="Abhishek Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhiyadav02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abhishek Yadav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiyadav02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -134,11 +139,11 @@ A sample of my recent articles:
 <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/thenomaniqbal/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/thenomaniqbal/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/thenomaniqbal/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </details>
 
 
