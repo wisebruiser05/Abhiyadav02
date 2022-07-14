@@ -45,14 +45,14 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
 ### 💻 Programming Languages
 
 <p>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Amarkdown"><img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?logo=markdown&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Amarkdown"><img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?logo=markdown&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3AAbhiyadav02+language%3Asql"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -104,7 +104,7 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
 ---
  
  <p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
+  <img align="left" alt="GIF" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
@@ -139,30 +139,30 @@ A sample of my recent articles:
 <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/Abhiyadav02/aboutme"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=aboutme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/Abhiyadav02/NITTTR_DATA_SCIENCE_2022"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=NITTTR_DATA_SCIENCE_2022&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/Abhiyadav02/Resturant-Review-analysis-using-NLP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Resturant-Review-analysis-using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/Abhiyadav02/Basic-Banking-Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Basic-Banking-Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<!--<a href="https://github.com/Abhiyadav02/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>-->
 </details>
 
 
-
+<!--
 ## ✡️ Stargazers 👇
 
 [![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers)
-
+-->
 ## 🙋‍♂️ Let's Connect
 <div align="center">
 	<!--
-	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
+	<a href="link" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
 	-->
-	<a href="https://github.com/thenomaniqbal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
+	<a href="https://github.com/Abhiyadav02" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/abhishek-yadav-274820196/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
 	<!--
 	<a href="https://www.facebook.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" title="Facebook Profile" alt="Facebook"/></a>
 	-->
-	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/abhishek_02yadav/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
 	<a href="mailto:yadavabhishekrao2002@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
 
@@ -176,7 +176,7 @@ A sample of my recent articles:
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/footer.png"></div>
 	
 
 <!-- Resources -->
@@ -200,19 +200,19 @@ A sample of my recent articles:
 
 <!-- icons without padding -->
 
-<!--[1.1]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/twitter.png (Twitter icon without padding)
+<!--[1.1]: https://raw.githubusercontent.com/Abhiyadav02/thenomaniqbal/master/icon/twitter.png (Twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/linkedin.png (LinkedIn icon without padding)
-[4.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/instagram.png (Instagram icon without padding)
-[5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico (Sololearn icon without padding)
+[3.2]: https://raw.githubusercontent.com/Abhiyadav02/aboutme/master/icon/linkedin.png (LinkedIn icon without padding)
+[4.2]: https://raw.githubusercontent.com/Abhiyadav02/aboutme/master/icon/instagram.png (Instagram icon without padding)
+[5.2]: https://raw.githubusercontent.com/Abhiyadav02/aboutme/master/icon/sololearn.ico (Sololearn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
 <!--[1]: https://twitter.com/
-[2]: https://github.com/thenomaniqbal/
-[3]: https://www.linkedin.com/in/thenomaniqbal/
-[4]: https://instagram.com/thenomaniqbal/
+[2]: https://github.com/Abhiyadav02/
+[3]: https://www.linkedin.com/in/abhishek-yadav-274821096/
+[4]: https://instagram.com/abhishek_02yadav/
 [5]: https://www.sololearn.com/
 
 [![Twitter][1.1]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5]. -->
