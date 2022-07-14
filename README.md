@@ -1,7 +1,7 @@
 <!-- Greetings -->
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, Welcome to my profile!
+	Hi, This is Abhishek Yadav
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <br/>
@@ -23,14 +23,14 @@
 <hr/>
 
 <!-- Introduction -->
-My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software developer/Data Scientist. I'm from Pakistan, living in Islamabad and currently pursuing a master's degree in Data Science. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Machine Learning, Artificial Intelligence and Data Science.
+My name is [Abhishek Yadav!](http://nomaniqbal.epizy.com/)! and I'm a Flutter and Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply in love with Data Science and Flutter.
 
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Yadav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
@@ -42,14 +42,12 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 <p>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Amarkdown"><img alt="Java" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-
+	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="Dart" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="Flutter" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -60,16 +58,11 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
     	<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 	<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
 	<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
-    	<a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=black"></a>
-	<a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    	<a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white">
-	<a href="#"><img alt="RubyOnRails" src="https://img.shields.io/badge/Ruby%20On%20Rails-20232e.svg?logo=rubyonrails&logoColor=white"></a>
     	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
+<!--
 ### 🗄️ Databases and cloud hosting
-
 <p>
 	<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
 	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -80,16 +73,15 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
     	<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
+-->
 
 ### 🔧 Software, Technologies and tools
 
 <p>
-	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
+	<a href="#"><img alt="OS-Windows" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="SPSS" src="https://img.shields.io/badge/-SPSS-FB542B?logo=ibm&logoColor=white"></a>
     	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
-    	<a href="#"><img alt="Tobii Pro Lab" src="https://img.shields.io/badge/Tobii%20Pro-00b56a.svg?logo=eyeem&logoColor=white"></a>
     	<a href="#"><img alt="PDP-Anaconda" src="https://img.shields.io/badge/-Anaconda-141E24?logo=anaconda&logoColor=white"></a>
     	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
 	<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white"></a>
@@ -113,16 +105,18 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/)! and I'm a software deve
 ## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
-
+<!--
 ## &#x270d; Blog & Writing 📕
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [nomaniqbal.epizy.com](http://nomaniqbal.epizy.com/) as well as on [Hashnode](https://nomaniqbal.hashnode.dev/).
 
 A sample of my recent articles:
-
+-->
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Why Learn Python? Five Reasons to Start Programming With Python in 2022](https://nomaniqbal.hashnode.dev/why-learn-python-five-reasons-to-start-programming-with-python-in-2022)
 - [Why does Python run slower than C?](https://nomaniqbal.hashnode.dev/why-does-python-run-slower-than-c)
+-->
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; Github stats
@@ -131,7 +125,7 @@ A sample of my recent articles:
 <details>
 	<summary>💻 GitHub Profile Stats</summary>
 	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img alt="NomanIqbal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenomaniqbal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
+	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img alt="Abhishek Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenomaniqbal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NomanIqbal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenomaniqbal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -155,17 +149,22 @@ A sample of my recent articles:
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
+	<!--
 	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
+	-->
 	<a href="https://github.com/thenomaniqbal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
+	<!--
 	<a href="https://www.facebook.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" title="Facebook Profile" alt="Facebook"/></a>
+	-->
 	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
-	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
+	<a href="mailto:yadavabhishekrao2002@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
-  
+
+<!--
 ## :book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/thenomaniqbal/thenomaniqbal/issues/new?template=guestbook-entry.md">here</a>!</p>
-
+-->
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
@@ -173,7 +172,6 @@ A sample of my recent articles:
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
-
 	
 
 <!-- Resources -->
@@ -206,10 +204,10 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-<!--[1]: https://twitter.com/thenomaniqbal/
+<!--[1]: https://twitter.com/
 [2]: https://github.com/thenomaniqbal/
 [3]: https://www.linkedin.com/in/thenomaniqbal/
 [4]: https://instagram.com/thenomaniqbal/
-[5]: https://www.sololearn.com/profile/14847321/
+[5]: https://www.sololearn.com/
 
 [![Twitter][1.1]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5]. -->
