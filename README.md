@@ -86,6 +86,7 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
 <p>
 	<a href="#"><img alt="OS-Windows" src="https://img.shields.io/badge/Windows-1793D1.svg?logo=windows&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
+	<a href="#"><img alt="IDE-Spyder" src="https://img.shields.io/badge/-Spyder-0000CC?logo=spyder&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
     	<a href="#"><img alt="PDP-Anaconda" src="https://img.shields.io/badge/-Anaconda-141E24?logo=anaconda&logoColor=white"></a>
