@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Flutter+Development;I+am++into++Data+Science;I+am++into++Machine+Learning;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Social badges section -->
@@ -25,7 +25,7 @@
 <hr/>
 
 <!-- Introduction -->
-My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter and Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply in love with Data Science and Flutter.
+My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Artificial Intelligence, Machine Learning, Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply in love with Data Science and Flutter.
 
 
 ## 🔥 Streak Stats
